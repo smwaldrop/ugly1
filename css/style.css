@@ -1,0 +1,21 @@
+body{
+    background-color:darkgoldenrod;
+    background-image: url("../img/images\ \(3\).jpeg");
+    color:blue;
+    font-family: "Rubik Microbe";
+    font-size: 50px;
+    text-align: center;
+    text-decoration:line-through;
+    text-decoration-color:chartreuse;
+}
+
+h2{
+    color:salmon;
+    text-shadow: chocolate;
+    
+}
+
+img{ 
+    border: 10px solid fuchsia;
+}
+
